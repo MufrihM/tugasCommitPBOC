@@ -5,4 +5,4 @@ tes commit
 push pertama
 
 
-NAMA / NIM
+Mufrih Madjid / 202410101146
